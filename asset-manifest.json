@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Final%20Project/static/css/main.108a2926.chunk.css",
+    "main.js": "/Final%20Project/static/js/main.3a0dd3ca.chunk.js",
+    "main.js.map": "/Final%20Project/static/js/main.3a0dd3ca.chunk.js.map",
+    "runtime-main.js": "/Final%20Project/static/js/runtime-main.29898a75.js",
+    "runtime-main.js.map": "/Final%20Project/static/js/runtime-main.29898a75.js.map",
+    "static/css/2.dc23133b.chunk.css": "/Final%20Project/static/css/2.dc23133b.chunk.css",
+    "static/js/2.e3d54aeb.chunk.js": "/Final%20Project/static/js/2.e3d54aeb.chunk.js",
+    "static/js/2.e3d54aeb.chunk.js.map": "/Final%20Project/static/js/2.e3d54aeb.chunk.js.map",
+    "index.html": "/Final%20Project/index.html",
+    "precache-manifest.15daf78d6644c9d47a4030ad0a11265c.js": "/Final%20Project/precache-manifest.15daf78d6644c9d47a4030ad0a11265c.js",
+    "service-worker.js": "/Final%20Project/service-worker.js",
+    "static/css/2.dc23133b.chunk.css.map": "/Final%20Project/static/css/2.dc23133b.chunk.css.map",
+    "static/css/main.108a2926.chunk.css.map": "/Final%20Project/static/css/main.108a2926.chunk.css.map",
+    "static/js/2.e3d54aeb.chunk.js.LICENSE.txt": "/Final%20Project/static/js/2.e3d54aeb.chunk.js.LICENSE.txt",
+    "static/media/bbx2.jpg": "/Final%20Project/static/media/bbx2.40f4e00e.jpg",
+    "static/media/font-awesome.min.css": "/Final%20Project/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/myphoto.jpg": "/Final%20Project/static/media/myphoto.298c8065.jpg",
+    "static/media/natak.jpg": "/Final%20Project/static/media/natak.94ec10e7.jpg",
+    "static/media/project1.jpg": "/Final%20Project/static/media/project1.e525c961.jpg",
+    "static/media/resume.pdf": "/Final%20Project/static/media/resume.01c100e0.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29898a75.js",
+    "static/css/2.dc23133b.chunk.css",
+    "static/js/2.e3d54aeb.chunk.js",
+    "static/css/main.108a2926.chunk.css",
+    "static/js/main.3a0dd3ca.chunk.js"
+  ]
+}
